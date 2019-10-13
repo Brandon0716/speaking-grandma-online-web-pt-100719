@@ -1,5 +1,3 @@
-speak_to_grandma
-
 if speak_to_grandma =="I LOVE YOU GRANDMA!".upcase
   puts "I LOVE YOU PUMPKIN!".upcase
 elsif speak_to_grandma == "i miss you"
