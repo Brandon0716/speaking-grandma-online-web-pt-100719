@@ -4,7 +4,7 @@ elsif speak_to_grandma == "i miss you"
   puts "HUH?! SPEAK UP, SONNY!".upcase
 elsif speak_to_grandma == "HOWS EVERYTHING".upcase
   puts "NO, NOT SINCE 1938!".upcase
-elsif speak_to_grandma == "im getting marrried"
+elsif speak_to_grandma == "im getting married"
   puts " HUH?! SPEAK UP, SONNY!".upcase
 else speak_to_grandma == "IM GETTING MARRIED".upcase
   puts "NO, NOT SINCE 1938!".upcase
