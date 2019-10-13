@@ -6,8 +6,3 @@ Whatever you say to grandma, she should respond with
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 
-# NO, NOT SINCE 1938!
-
-if i say "I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TO PUMPKIN!"
-end
