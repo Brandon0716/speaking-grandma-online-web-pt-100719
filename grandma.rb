@@ -1,7 +1,7 @@
 def speak_to_grandma 
 
 if speak_to_grandma =="I LOVE YOU GRANDMA!".upcase
-  puts "I LOVE YOU PUMPKIN!".upcase
+  puts "I LOVE YOU PUMPKIN TOO!".upcase
 elsif speak_to_grandma == "i miss you"
   puts "HUH?! SPEAK UP, SONNY!".upcase
 elsif speak_to_grandma == "HOWS EVERYTHING".upcase
