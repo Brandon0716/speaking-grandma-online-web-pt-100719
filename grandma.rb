@@ -12,4 +12,4 @@ else speak_to_grandma == "IM GETTING MARRIED".upcase
   puts "NO, NOT SINCE 1938!".upcase
 end
 
-if "I LOVE YOU PUMPKIN!"
+if "I LOVE YOU GRANDMA!"
